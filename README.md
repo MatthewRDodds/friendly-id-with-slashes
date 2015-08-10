@@ -6,7 +6,9 @@
 bundle
 bin/rake db:setup
 bin/rails s
-`
+```
+
+## Demo
 
 Navigate to [http://localhost:3000/travel-guides/posts/caribbean/barbados/overview](http://localhost:3000/travel-guides/posts/caribbean/barbados/overview).
 
